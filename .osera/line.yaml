@@ -1,0 +1,17 @@
+line: hibernate-5.6
+repository: patch-hibernate-orm
+members:
+  - org.hibernate:hibernate-c3p0
+  - org.hibernate:hibernate-core
+  - org.hibernate:hibernate-ehcache
+  - org.hibernate:hibernate-entitymanager
+  - org.hibernate:hibernate-envers
+  - org.hibernate:hibernate-hikaricp
+  - org.hibernate:hibernate-java8
+  - org.hibernate:hibernate-jcache
+  - org.hibernate:hibernate-jpamodelgen
+  - org.hibernate:hibernate-micrometer
+  - org.hibernate:hibernate-proxool
+  - org.hibernate:hibernate-spatial
+  - org.hibernate:hibernate-testing
+  - org.hibernate:hibernate-vibur
